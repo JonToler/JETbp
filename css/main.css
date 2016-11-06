@@ -7,32 +7,33 @@ GENERAL
 
 body{
 	font-family: 'Open Sans', sans-serif;
+	margin: auto;
 	}
 
 #wrapper {
 	max-width: 940px;
 	margin: 0 auto;
 	padding: 0 5%;
-	background: black;	
+	background: black;
 	}
-	
+
 
 a {
 	text-decoration: none;
-}	
-	
+}
+
 img {
 	max-width: 100%;
 	}
-	
+
 h3 {
 	margin: 0 0 1em 0;
 }
-	
+
 /*****************
 Heading
 ***************
-*/	
+*/
 
  header {
 	 float:left;
@@ -43,9 +44,9 @@ Heading
 
 #logo {
 	text-align: center;
-	margin: 0;	
+	margin: 0;
 	}
-	
+
 h1 {
 	font-family:'Arvo', serif;
 	margin: 15px 0;
@@ -53,12 +54,12 @@ h1 {
 	font-weight: normal;
 	line-height: 0.8em;
 	}
-	
+
 h2 {
 	font-size: 0.75em;
 	margin: -5px 0 0;
 	font-weight: normal;
-	}	
+	}
 
 div {
 	text-align:justify;
@@ -69,7 +70,7 @@ div img {
 	width:150px;
 	height:150px;
 	float:right;
-	
+
 }
 
 
@@ -80,7 +81,7 @@ div: after {
 }
 
 
-	
+
 /*****************
 Navigation***************
 */
@@ -100,7 +101,7 @@ nav ul {
 nav li {
 	display: inline-block;
 }
-	
+
 /*****************
 Footer***************/
 
@@ -116,7 +117,7 @@ footer{
 /*****************
 PAGE: Performance Photos/Gallery
 ***************
-*/	
+*/
 
 
 
@@ -145,7 +146,7 @@ PAGE: Performance Photos/Gallery
 /*****************
 PAGE: Bio
 ***************
-*/	
+*/
 
 
 .profile-photo {
@@ -171,23 +172,23 @@ header {
 	background: #CCC;
 	border-color: #599a68;
 	}
-	
+
 	h1, h2 {
 		color: #FFF;
 		}
-		
+
 a {
 	color: #C60;
-	
+
 	}
-	
-	
-	
-/*Nav background color on mobile devices*/		
+
+
+
+/*Nav background color on mobile devices*/
 nav {
 	background:#599a68;
 	}
-/* Nav link*/	
+/* Nav link*/
 nav a, nav a:visited {
 	color:#fff;
 	}
