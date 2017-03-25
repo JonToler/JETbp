@@ -4,6 +4,7 @@ body{
   margin: 0;
   text-align: center;
   align-items: center;
+  background-color: black;
 
 }
 
@@ -14,7 +15,7 @@ header {
 
 img.headerimg {
   width: 100%;
-  height: auto;;
+  height: auto;
 
 
 }
@@ -36,4 +37,20 @@ h3 {
 
 #primary-content {
   border: 3px solid red;
+}
+
+.button {
+    background-color: #4CAF50;
+    border: 30px solid green;
+    color: white;
+    padding: 75px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 100%;
+    height: auto;
+
 }
