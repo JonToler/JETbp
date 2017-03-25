@@ -1,0 +1,39 @@
+
+body{
+  color: #878787;
+  margin: 0;
+  text-align: center;
+  align-items: center;
+
+}
+
+header {
+  border: 3px solid green;
+  margin: auto;
+}
+
+img.headerimg {
+  width: 100%;
+  height: auto;;
+
+
+}
+
+h1 {
+  font-size: 69px;
+  color: white;
+  background-color: red;
+}
+
+h2 {
+  font-size: 53px;
+}
+
+h3 {
+  font-size: 20px;
+  color: #48525c;
+}
+
+#primary-content {
+  border: 3px solid red;
+}
