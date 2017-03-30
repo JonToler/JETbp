@@ -42,9 +42,10 @@ h3 {
 
 .button {
     background-color: #E8451C;
+    box-shadow: white;
     border: 30px solid #E87E1C;
     color: white;
-    padding: none;
+    padding: 1px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
